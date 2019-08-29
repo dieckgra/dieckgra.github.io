@@ -4,11 +4,11 @@
     "label": "Student",
     "picture": "https://dieckgra.github.io/images/DougAndToriCrop.jpg",
     "email": "dieckgra@hawaii.edu",
-    "phone": "Available upon request",
+    "phone": "Phone: Available upon request",
     "website": "https://dieckgra.github.io",
     "summary": "I am studying for a BBA with a triple major in Management Information Systems, Marketing, and Finance at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "Available upon request",
+      "address": "Street address: Available upon request",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -93,7 +93,17 @@
       "gpa": "3.96",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "Defense Langauge Institute Foregin Langauge Center",
+      "area": "Chinese - Mandarin",
+      "studyType": "A.A.",
+      "startDate": "2015-03-01",
+      "endDate": "2016-09-30",
+      "gpa": "3.4",
+      "courses": [
+      ]
+    }    
   ],
   "work": [
     {
@@ -130,33 +140,6 @@
       "highlights": [
         "Gained superb leadership experience",
         "became well-trained in all aspects of security from physical to cyber"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
       ]
     }
   ],
