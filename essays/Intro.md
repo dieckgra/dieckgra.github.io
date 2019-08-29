@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Introduce Yourself
 date:	2019-08-28
-labels:
+labels: 
   - Introduction
   - Autobiography
 ---  
