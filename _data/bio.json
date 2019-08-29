@@ -22,27 +22,39 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "ddieckgraefe",
         "url": "https://www.linkedin.com/in/douglas-dieckgraefe-458862132/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "penetration testing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Kali",
+        "Metasploit",
+        "Parrot Security",
+        "Wireshark"
       ]
     },
     {
-      "name": "data mining",
+      "name": "real estate investing",
       "keywords": [
+        "rental property",
+        "commercial",
+        "apartments",
+        "residential",
+        "tax liens"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "IT for business",
       "keywords": [
+        "artificial intelligence",
+        "digital marketing",
+        "network security",
+        "web design",
+        "application programming"
       ]
     }
   ],
@@ -51,11 +63,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "BASH",
+        "Java",
+        "JavaScript",
         "PHP",
         "Python",
-        "Java",
-        "Javascript",
-        "BASH",
         "R",
         "SQL"
       ]
@@ -66,6 +78,7 @@
       "keywords": [
         "MacOS",
         "Kali Linux",
+        "Windows 10",
         "Git/GitHub"
       ]
     }
@@ -73,7 +86,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Business focus on MIS, Finance, and Marketing (expected Spring, 2020)",
+      "area": "Business with focus on MIS, Finance, and Marketing (expected Spring, 2020)",
       "studyType": "BBA",
       "startDate": "2018-08-20",
       "endDate": "Present",
@@ -105,6 +118,18 @@
       "highlights": [
         "analyzed real borrowers' and properties' financial strengths",
         "Gained insight into how banks operate and work with other businesses"
+      ]
+    },
+    {
+      "company": "United States Marine Corps",
+      "position": "Marine (linguist, analyst, and combat marksmanship trainer)",
+      "website": "",
+      "startDate": "2013-09-16",
+      "endDate": "2018-09-15",
+      "summary": "coached and trained thousands of Marines on pistol and rifle marksmanship and deployed on 31st MEU",
+      "highlights": [
+        "Gained superb leadership experience",
+        "became well-trained in all aspects of security from physical to cyber"
       ]
     }
   ],
